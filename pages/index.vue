@@ -1,6 +1,6 @@
 <template lang="html">
   <div>
-    <Button to="/manga/search">Go to search page</Button>
+    <Button to="/manga/search">Go to search </Button>
   </div>
 </template>
 <script>
